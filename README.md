@@ -38,7 +38,7 @@ The management logic categorizes system behavior into distinct primary modes to 
 ## 🎥 Video Demonstration
 To see the MATLAB/Simulink simulation in action under various irradiance scenarios, check out the video demonstration:  
 📺 **[Watch the Simulation on YouTube](https://www.youtube.com/watch?v=lWogfJUjw_k)**
-
+[![Watch the simulation on YouTube](https://img.youtube.com/vi/lWogfJUjw_k/maxresdefault.jpg)](https://www.youtube.com/watch?v=lWogfJUjw_k)
 ---
 
 ## 💻 Get the MATLAB/Simulink Model
